@@ -44,11 +44,11 @@ lowest_salary_range VARCHAR (25),
 highest_salary_range varchar (25),
 PRIMARY KEY (dept_id)
 );
-INSERT INTO department VALUES("27","Customer Relations",'Laura',"1500","3500");
+INSERT INTO department VALUES("27","GRC Consultant",'Laura',"7000","11000");
 INSERT INTO department VALUES("38","Financial Risk Management",'Thanh',"6500","10000");
 INSERT INTO department VALUES("13","Audit",'Long',"2500","5000");
-INSERT INTO department VALUES("40","Payroll",'Hale',"3500","5000");
-INSERT INTO department VALUES("12","Human Resources",'Thinh','4000','8500');
+INSERT INTO department VALUES("40","Risk and Assurance Consultant",'Hale',"3500","5000");
+INSERT INTO department VALUES("12","Quality Assurance Consultant",'Thinh','4000','8500');
 
 
 /*----------------------------------------------------------------------------------------*/
